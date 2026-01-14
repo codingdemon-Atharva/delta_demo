@@ -1,2 +1,2 @@
 # delta_demo
-demo
+demo.
